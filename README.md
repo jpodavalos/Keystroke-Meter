@@ -1,6 +1,9 @@
 # Keystroke-Counter
 A simple C# app that reads and counts keyboard keystrokes.
 
+![alt text](https://github.com/jpodavalos/Keystroke-Counter/blob/master/images/keystroke_counter_light.JPG?raw=true)
+![alt text](https://github.com/jpodavalos/Keystroke-Counter/blob/master/images/keystroke_counter_dark.JPG?raw=true)
+
 ## Requirements:
 * Visual Studio 2017
 * MetroFramework Modern UI installed
